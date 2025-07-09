@@ -47,3 +47,6 @@ In task3.c, the program scans the input character by character, forms words, and
 This task involves writing a program that performs Run-Length Encoding (RLE) – a simple and effective form of lossless data compression. The program accepts a string (e.g., "aaabbbc") and compresses it into a form like "a3b3c1". It also supports decompression, reconstructing the original string from the compressed version.
 
 In task4.c, the compression logic counts consecutive repeated characters and prints the character followed by the count. The decompression logic reads pairs of characters and counts and repeats them accordingly. This exercise provides a real-world example of how data compression works in text and image file formats (like .bmp, .pcx, etc.).
+
+#OUTPUT TASK 1 :
+<img width="686" height="222" alt="Image" src="https://github.com/user-attachments/assets/31df20c5-be10-40e3-8fae-906665d37151" />
