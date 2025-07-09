@@ -57,5 +57,5 @@ In task4.c, the compression logic counts consecutive repeated characters and pri
 #OUTPUT TASK3 : 
 <img width="424" height="463" alt="Image" src="https://github.com/user-attachments/assets/705fd9f9-16da-478a-8f6c-5e062db4c7b9" />
 
-#OUTPUT TASK3 :
+#OUTPUT TASK4 :
 <img width="652" height="252" alt="Image" src="https://github.com/user-attachments/assets/9506840e-e7f3-4973-aff5-f92d9ef87792" />
